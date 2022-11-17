@@ -1,0 +1,5 @@
+*Contenedores: Infraestructura + Sistema Operativo + Motor del contenedor+ apps, libs, bins, etc. Todo esto se hace para minimizar recursos y poder correr proyectos en otros equipos.
+  -Servicios: Docker, Podman.
+
+*Orquestacion: Ayuda con varias tareas, como por ejemplo con el despliegue, la escalibilidad, la creacion de servidores y los reportes. Por lo regular el master despliega los contenedores.
+  -Servicios: Docker, Kubernetes, Openshift.

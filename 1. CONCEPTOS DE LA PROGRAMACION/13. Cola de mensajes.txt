@@ -1,0 +1,17 @@
+*Que es el encolamiento de mensajes o Message Queueing
+
+ -Interfaz intermedia que permite almacenar peticiones para llevarlas de forma ordenada al Backend y no colapsar. Disociacion de apps y sistema asincrono.
+
+*Que es un mensaje
+ -Informacion que debe de ser transmitida de un punto a otro.
+
+*Tipos de estructuras
+
+ -Estructura punto a punto: Producer + Queue + Consumer (EJEMPLO EMAIL ENTRANTE - COLA - EMAIL SALIENTE). Gestiona colas de uno a uno.
+
+ -Estructura publicador-suscriptor: Publisher + Queue + Subscriber. Gestiona colas de uno a n.
+
+ *Beneficios: Disociacion de apps, especializacion de apps, escalabilidad, procesamiento, evolucion.
+
+ *Servicios: RabbitMQ, Redis.
+

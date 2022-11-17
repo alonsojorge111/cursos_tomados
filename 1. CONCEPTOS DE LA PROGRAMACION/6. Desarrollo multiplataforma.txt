@@ -1,0 +1,18 @@
+*Desarrollo multiplataforma
+ -Crear un solo codigo donde la compilacion cree diferente tipo de archivos para diferentes s.o.
+
+ -Plataformas 
+   *IOS, MAC OS, WINDOWS, LINUX, JVM, ANDROID.
+
+ -Lenguajes multiplataforma
+   *JavaScript, Java, Python, C#, Ruby, Dart.
+
+ -Frameworks multiplataforma
+   *Cordova, React Native, NativeScript, AppCelerator (JavaScript).
+   *Kivy, Beeware (Python).
+   *Flutter (Dart).
+   *Codename one (Java).
+   *Rubymotion (Ruby).
+
+ -Frameworks mas demandados
+   *Futter, Ionic, React Native, Xamarin, NativeScript, AppCelerator.

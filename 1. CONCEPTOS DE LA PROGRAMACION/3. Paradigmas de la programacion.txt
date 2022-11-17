@@ -1,0 +1,29 @@
+PARADIGMAS DE PROGRMACION
+
+*Programacion estructurada
+  -Se programa por secciones ordenadas.
+
+
+*Programacion orientada a objetos
+  -Lo mas importante son los objetos. El objetivo es que los objetos se relacionen entre si.
+  -Los objetos tienen dos propiedades:
+     *Datos o atributos.
+     *Funcionalidad a través de metodos.
+  -Los objetos se crean a través de clases: Las clases son plantillas o templates donde se crean los objetos con sus atributos y funcionalidades. A los objetos se le conoce como instanciar a la clase madre.
+  -Conceptos clave de los objetos:
+     *Abstracción: Definicion de los atributos y funcionalidades de los objetos.
+     *Encapsulamiento: Dentro de un mismo objeto tener todos los atributos y metodos para tratar a los objetos como una variable.
+     *Herencia: Creacion de nuevas clases a partir de una clase padre, para utilizar sus propiedades.De igual forma poder crear nuevos metodos o atributos.
+     *Polimorfismo: Utilizar un mismo metodo puede tener diferentes formas en funcion de sus atributos.
+
+
+*Programacion Funcional
+   -Utiliza funciones puras: Sin importar el numero de veces que se llamen arrojaran el mismo resultado.
+   -Utiliza funciones sin estado: Se utiliza la recursividad donde la funcion se llama a ella misma.
+   -Se puede usar junto a la programacion estructurada y la programacion orientada a objetos
+
+  
+
+
+  
+

@@ -1,0 +1,22 @@
+DevOps: Development IT Operations
+  -Desarrollo de software (CREA) + operaciones IT (SE ENCARGA DE QUE SE IMPLEMENTE BIEN)
+  -Metodología de desarrollo de software donde se publica codigo de poco a poco
+
+  -CI: Continuous Integration: Integracion continuo. Publica el codigo (pull, merge, push).
+
+  PARA REALIZAR UN PUSH.
+
+  1) Realizar una serie de test.
+  2) Comprobar otro tipo de caracteristicas.
+  3) Se realiza el push.
+  4) Y se publica la nueva pre-version.
+
+  -CD: Continuous Deployment: Despliegue continuo. Despliega la aplicacion a produccion.
+
+  PARA REALIZAR UN DEPLOY.
+  1) Realizar una serie de test.
+  2) Configurar los entornos correspondientes.
+  3) Se realiza el despliegue.
+
+*Herramientas o servicios
+  -Ansible, Helm, Jenkins, GitLab CI, GitHub Actions, Bitbucket Pipelines.

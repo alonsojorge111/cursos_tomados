@@ -1,0 +1,13 @@
+*API: Application Programming Interface. Conjunto de metodos u operaciones para interactuar con una base de datos sin tocar cuestiones internas.
+
+*REST: Representational State Transfer (Transferencia de estado representacional). Es un protocolo de comunicacion.
+
+*RESTFul API: Darle acceso a externos y poder modificar informacion interna de una base de datos o app.
+
+*CRUD: Create Read Update Delete.Todo esto a través de funciones.
+
+*Servicios: Postman.
+
+
+
+

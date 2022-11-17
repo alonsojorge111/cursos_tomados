@@ -1,0 +1,5 @@
+Cloud Computing.
+ -Es la opción de tener un servidor pero de manera virtual o que se encuentre en internet.
+ -Te puedes ahorrar el mantenimiento, reducen costos, se tiene una mayor escalabilidad y seguridad.
+
+ *Servicios: Amazon Web Services (AWS), Google Cloud, Azure.

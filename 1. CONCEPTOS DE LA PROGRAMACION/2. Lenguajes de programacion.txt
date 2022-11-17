@@ -1,0 +1,60 @@
+                                                         LENGUAJES DE PROGRAMACION
+
+
+INTRODUCCION A LOS LENGUAJES DE PROGRAMACION.
+
+*Python: El mas utilizado actualmente, frameworks para desarrollo web (django y flask), lenguaje facil de aprender, lenguaje interpretado.
+
+*Java: Utilizado para aplicaciones web, lenguaje base para aplicaciones Android, Android Studio, lenguaje relativamente sencillo en aprender.
+
+*JavaScript: Lenguaje para desarrollo web y paginas web, se utiliza NodeJs.
+
+*TypeScript: Lenguaje basado en JS, desarrollado por Microsoft, algo mas complejo que JS.
+
+*C#: Se usa en backend, videojuegos y apps de microsoft, se utiliza en unity, derivado de C y C++.
+
+*ASP.NET: Framework para crear sitios web, aplicaciones y servicios web, creado por microsoft.
+
+*PHP: Lenguaje de backend, compite con js y python, web mas lentas a comparacion con lenguajes mas modernos.
+
+*HTML: Lo interpreta todos los navegadores, se utiliza para crear sitios web estaticas.
+
+*CSS: Lenguaje de diseño grafico, aplica estilos a HTML.
+
+*AJAX: Libreria para hacer una tecnica para crear apps en JS y XML asincronas y servicios externos.
+
+*RUBY: Lenguaje de programacio que se utiliza en servidores. Se utiliza en twitch, twitter, kickstarter, soundcloud.
+
+*PERL: Lenguaje de programacion para manipulacion de texto, desarrollo web y desarrollo GUI.
+
+*DART: Se utiliza para web, servidor y movil,sintaxis de estilo de C.
+
+*KOTLIN: Se utiliza para desarrollar aplicaciones moviles generalmente android, puede interactuar con java.
+
+*SWIFT: Lenguaje de programacion para desarrollar aplicaciones en IOS,soporte a partir de IOS7.
+
+
+LENGUAJES MAS UTILIZADOS EN 2022
+
+*JavaScript
+*HTML/CSS
+*Python
+*SQL
+*Java
+*Nodejs
+*TypeScript
+*C#
+*Bash/Shell
+*C++
+*PHP
+*C
+*PowerShell
+*Go
+*Kotlin
+*Rust
+*Ruby
+
+
+
+
+

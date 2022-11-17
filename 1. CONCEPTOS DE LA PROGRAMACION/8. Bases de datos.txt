@@ -1,0 +1,19 @@
+Bases de datos
+  -Una base de datos es un sistema que permite almacenar información que puede o no estar relacionada entre si.
+  -Fases de desarrollo de una base de datos.
+     *Diseño conceptual: Crear toda la idea de la base de datos,relaciones, etc.
+
+     *Diseño logico: Se va a definir el gestor de base de datos y se convertira el diseño conceptual a la 
+      tecnología que se va a utilizar (Tipos de datos).
+
+     *Diseño fisico:La creación de la base de datos en un gestor de base de datos.
+
+  -Tipos de bases de datos.
+    *SQL: Son bases de datos relacionales.
+      -Proveedores: MySQL, PostreSQL, MariaDB, Oracle Database
+
+    *NoSQL: No son relacionales. Modelo Key-Value. Se pueden almacenar objetos (documentos). Modelo de grafos.
+      -Proveedores: MongoDB, Cloud Firestore, Cassandra, Redis, GraphQL.
+
+  
+

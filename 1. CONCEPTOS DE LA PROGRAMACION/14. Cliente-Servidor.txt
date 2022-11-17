@@ -1,0 +1,20 @@
+Modelo Cliente-Servidor
+
+  -Cliente: Ordenador, dispositivo movil, programa o cualquier aparato con acceso a internet. Da peticiones.
+  -Servidor: Desplega la informacion que el cliente solicito a traves de internet.
+
+  -Estructuras de cliente-servidor por niveles
+   *1 Nivel: Todo almacenado en una misma maquina. 
+   *2 Niveles: Donde el cliente tiene acceso a otro dispositivo.
+   *3 Niveles: El cliente tiene acceso a un servidor y el servidor tiene acceso a una base de datos externo.
+   *N Niveles: El cliente puede acceder a distintos servidores.
+
+  -Tipo de servidores
+    *Web servers: Permite renderizar una web.
+    *File servers: Intercambia archivos.
+    *Email servers: Permite tener un servicio de email.
+    *VPN servers: Permite acceder a diferentes servicios de otra ubicacion.
+    *Proxy servers: Accedes a ciertas direcciones como el vpn.
+
+  -Modelo P2P (Peer to peer)
+    *Modelo donde el cliente-servidor ya no existe. Se acceden ya no a servidores sino entre clientes.

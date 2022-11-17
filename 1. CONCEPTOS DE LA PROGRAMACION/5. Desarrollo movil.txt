@@ -1,0 +1,27 @@
+*Desarrollo Movil
+ -Plataformas moviles
+  *Android.
+  *IOS.
+
+-IDEs y emuladores para desarollo movil
+  *Android Studio
+  *Xcode.
+
+-Lenguajes de programacion
+  *Kotlin.
+  *Java.
+  *Swift.
+
+-Frameworks y librerias
+  *Xamarin (C# y .NET).
+  *Flutter (Dart).
+  *React Native (JavaScript y Framework React).
+  *Ionic: Con ayuda de frameworks de JavaScript, WebView y Bridge Native con Cordova.
+
+
+
+
+
+
+
+

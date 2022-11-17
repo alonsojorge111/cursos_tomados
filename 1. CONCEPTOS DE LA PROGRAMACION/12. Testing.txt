@@ -1,0 +1,26 @@
+Testing
+ -Prueba que se hace con un software que arrojara si las prueban pasan o no.
+
+-QA(Quality Assurance):  Control de calidad donde se encargan de testear el software desarrollado por la organización garantizando que funcione bajolos estandares propuestos al inicio del proyecto.
+
+ -Test de las cajas
+   *Caja negra: No se que tiene dicha caja. Solo se testea entradas y salidas.
+   *Caja blanca: Nos interesa ver que ocurre dentro de la caja blanca, es decir los algoritmos internos.
+   *Caja gris: Nos interesa saber las entradas y salidas y el flujo interno.
+
+ -Tipos de test
+   *Test Funcionales: Testea las funciones que la app debe cumplir (funcionalidad, errores, requerimiento del cliente).
+   *Test No Funcional: Testea lo que esta alrededor a la app (tiempos de carga, pruebas de estres, escalabilidad, accesibilidad, UX/UI, pruebas de seguridad).
+
+ -Modelos de testing
+
+  *En cascada o lineal o waterfall: (requisitos del sistema, requisitos de software, analisis, diseño, codificacion, pruebas, produccion).
+
+  *Repetitivo o iterativo: Duran los sprints aproximadamente 2 semanas (Iteracion 1: Requisitos, test, codifica y diseño; Iteracion 2: Se reedefine lo anterior; Iteracion 3: Se reedefine lo de la iteracion 2).
+
+  *Testing en V: Especificacion de requerimientos, diseño funcional, diseño tecnico, especificacion de componentes, implementacion, prueba de componentes, pruebas de integracion, pruebas del sistema y pruebas de aceptacion.
+
+  *Testing en espirl: Planear objetivos y soluciones, analisis de riesgo y soluciones a estos riesgos, desarrollar las versiones del producto, planificacion de la siguiente fase.
+
+
+

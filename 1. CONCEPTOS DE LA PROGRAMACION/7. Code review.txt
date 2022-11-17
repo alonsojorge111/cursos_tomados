@@ -1,0 +1,5 @@
+*Code Review
+ -Hacer modificaciones a las versiones de un proyecto para que de ser asi den el visto bueno para que sea considerado una nueva version.
+
+ -Plataformas
+  *CodeFactor, GitLab, Sonarqube, GitHub, Smartbear Collaborator, Codestriker, Gerrit.

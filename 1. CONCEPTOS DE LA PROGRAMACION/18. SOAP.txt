@@ -1,0 +1,2 @@
+*SOAP: Simple Object Access Protocol. Protocolo de acceso a objetos simples.
+*Diferencias con REST: Protocolo, por defecto stateless (o stateful), solo XML, mas recursos, HTTP + SMTP + UDP, menos flexibilidad.

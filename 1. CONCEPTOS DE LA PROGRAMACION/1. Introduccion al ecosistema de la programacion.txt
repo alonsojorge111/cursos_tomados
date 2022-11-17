@@ -1,0 +1,44 @@
+                                          CONCEPTOS DE LA PROGRAMACION
+
+*LENGUAJE DE PROGRAMACION: Seria de reglas gramaticales que permite al programador escribir instrucciones en forma de algoritmos y controlar el comportamiento de un sistema.
+
+
+
+*PARADIGMAS DE PROGRAMACION.
+   -Imperativo vs Declarativos (Legibilidad del codigo, Estable, Escalabilidad del codigo)
+         -Imperativo: Paradigma mas antiguo. Secuencia de instrucciones paso a paso.
+         -Declarativo: Se centra en el resultado final, en el lugar del como.
+
+   -Funcionales vs Procedimentales
+         - Se crean bloques de codigo predefinidos para ir creando nuestros programas.
+
+   -Division por Niveles de especificidad:
+         -Lenguaje maquina (binario)
+         -Lenguaje ensamblador (intermedio)
+         -Bajo Nivel (Relacionado directamente con el hardware y la arquitectura. Maquina y ensamblador)
+         -Medio-bajo nivel (C y C++ . Capacidades de alto nivel. Acceso a registros de memoria)
+         -Medio-alto nivel (Java, PHP, C#, JavaScript, Python)
+         -Alto nivel (Frameworks basados de medio nivel)
+
+
+*PROCESO DE CONVERSION.
+    -Traductor: Programa que convierte un lenguaje a binario.
+    -Compilador(C++):Transforma el codigo. Si hay errores no ejecuta el programa.
+    -Interpretador(JS):Intepreta el programa sin que este compilado. Lo ejecuta y si hay errores aun asi lo ejecuta y en la salida
+                     muestra el error.
+
+
+*ENTORNO DE DESARROLLO INTEGRADO IDE.
+    -IDE: VS Code, Atom, Sublime Text, PyCharm, Notepad++
+
+*CONTROL DE VERSIONES.
+    -SOFTWARE DE CONTROL DE VERSIONES: GIT, CVS, SVN, GITHUB Y GITLAB
+
+
+
+
+
+
+
+
+

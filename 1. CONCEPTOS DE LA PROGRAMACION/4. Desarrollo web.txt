@@ -1,0 +1,45 @@
+*Frontend y Backend
+  -Front End: De frente. Diseño y la cara visible de una página web.
+  -Back End: Lo de atrás. Se encarga de dar toda la información al front end.
+  -Full Stack: Es tanto front como back. Es la especialización de ambas rutas.
+
+*Lenguajes del lado de servidor
+  -Java, Ruby, PHP, Python, C#, ASP.NET, Perl, NodeJs.
+
+*Lenguajes del lado de cliente
+  -HTML, CSS, JavaScript, TypeScript, AJAX.
+
+AMBOS LENGUAJES SE CONECTAN ENTRE SI.
+
+*CMS(Content Management System): Software que ya tiene su propio front end y su back end.
+  -Wordpress, Joomla!, Drupal, Magento, PrestaShop, Shopify, Odoo.
+  -CRM: Client Relationship Manager
+
+*Frameworks: Una serie de librerias que facilitan la creación de proyectos
+  -Cliente: Angular, Vue Js, React, Laravel, Spring, Microsoft.net, Flask, Django.
+  -Servidor: Express Js, Adonis. 
+  -Test Unitarios: Pytest, Jest, Junit 5, PHP Unit, Nunit, Xunit.net.
+
+*Librerias: Estas se usan en el DOM (Document Object Model).
+  -ReactJs, JQuery, Bootstrap.
+
+*Servidores Web: Sirve para alojar paginas web, bases de datos, correo electronico, etc.
+  -Apache, Nginx, Tomcat, OpenLiteSpeed, NodeJs, Microsoft llS.
+
+*Navegadores.
+  -Edge, Safari, Chrome, Firefox, Brave, Opera
+
+*Stacks: Conjunto de tecnologias que permite crear páginas web completas en full stack
+  -LAMP, WAMP, XAMPP, MERN, MEAN, MEV, PERN, MEVN
+
+
+
+
+
+
+
+
+
+
+
+

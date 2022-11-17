@@ -1,0 +1,19 @@
+CRIPTOGRAFIA
+
+Tipos de cifrado de datos
+  -MD5
+     *Se crea en 1991 para reemplazar a MD4.
+     *Hoy en dia es inseguro, se utiliza para asegurar integridad
+
+  -SHA
+     *SHA-0, SHA-1...SHA-N
+     *Actualmente se utiliza el SHA-256.
+
+Criptografia Simetrica: Mensaje + Clave = Mensaje cifrado  ------>  Mensaje cifrado + Clave = Mensaje original
+
+Criptografia Asimetrica: Mensaje + Clave Publica = Mensaje Cifrado ----> Mensaje cifrado + Clave privada = Mensaje original.
+
+Protocolos de Seguridad en Internet
+  -SSL/TLS: Secure Sockets Layer - Transport Layer Security. Utiliza certificados X.509 y criptografia asimetrica
+  -SSH: Secure Shell. Protocolo de comunicacion con servidores. Ya esta cifrado.
+  -PGP: Pretty Good Privacy. Software instalable. Se puede utilizar en la Dark Web.

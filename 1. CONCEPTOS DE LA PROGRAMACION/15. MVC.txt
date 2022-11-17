@@ -1,0 +1,3 @@
+MODELO VISTA CONTROLADOR
+
+*MVC: Patron de diseño donde el modelo accede y manipula los datos; la vista muestra los datos del modelo y proporciona la interactividad al usuario; y el controlador coordina al modelo y a la vista.

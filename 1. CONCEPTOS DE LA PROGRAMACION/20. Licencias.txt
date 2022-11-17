@@ -1,0 +1,17 @@
+*Licencias: Terminos legales que afectan la utilización y distribución de determinado software.
+*Licenciante: El que genera la licencia.
+*Licenciatario: El que utiliza esa licencia.
+
+-Tipos de Licencia
+  *Software Libre: Ver el codigo fuente, estudiar el codigo fuente, modificar el codigo fuente, compartir el codigo y modificaciones del codigo fuente, uso comercial, utilizarlecon cualquier fin comercial.
+
+  *Open Source: Ver el codigo fuente, estudiar el codigo fuente, no siempre se puede modificar el codigo fuente, no siempre se puede compartir el codigo fuente ni las modificaciones, no se puede usar de manera comercial.
+
+  *Propietario: No se puede ver, estudiar, compartir ni usarlo de manera comercial.
+    -Freeware:Programas gratuitos pero que no podemos acceder al codigo.
+    -Shareware: Software distribuido gratuitamente para su prueba, trial version. Es una estrategia de marketing que se usa actualmente.
+
+ -Tipos de licencia de codigo abierto
+   *Licencias de codigo abierto permisivas:Se puede crear una obra derivada sin que esta tenga obligacion de proteccion alguna. Ejemplos (LICENCIA APACHE, LICENCIA PHP, BSD, PSFL(PYTHON), MIT.
+   *Licencias de codigo abierto robustas fuertes: Contienen una clausula a que las obras derivadas o modificaciones que se realicen al software originan deban licenciar bajo terminos y condiciones de la licencia original. Ejemplos (EPL(ECLIPSE PUBLIC LICENCE), GPL, LGPL, AGPL (GNU PUBLIC LICENCE)).
+   *Licencia de codigo abierto robustas debiles: Lo mismo que las licencias fuertes pero solo afectan las derivadas. Ejemplos (MPL (MOZILLA PUBLIC LICENCE), CDDL(COMMON DEVELOPMENT AND DISTRIBUTION LICENCE), APSL (APPLE SOURCE LICENCE)).
